@@ -22,3 +22,4 @@ Welcome to my GitHub profile! I am a dedicated BS Information Technology student
 ## Let's Connect!
 
 - *Email:* [nicoleisaddi@gmail.com](mailto:nicoleisaddi@gmail.com)
+- *Linkedin:* [Denielle Nicole Saddi](https://www.linkedin.com/in/denielle-nicole-saddi-9634b439b/)
