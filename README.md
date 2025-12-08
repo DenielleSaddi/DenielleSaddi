@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I am a dedicated BS Information Technology student
 ## Certification
 
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/b42d5aeb8b42401db5c127f6c38938c0)
+- [OCI Foundations Associate (2025)]
 
 
 ## Skill Sets
