@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I am a dedicated BS Information Technology student
 
 ## Skill Sets
 
-- *Programming:* Java, PHP
+- *Programming:* HTML, CSS, Java, PHP
 - *Databases:* SQL
-- *Tools:* Lucidchart, Eclipse, HTML
+- *Tools:* Lucidchart, Eclipse, VS Code
 
 ## Let's Connect!
 
