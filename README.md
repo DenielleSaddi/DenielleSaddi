@@ -1,6 +1,7 @@
 # Hi there, I'm Denielle Nicole Saddi! 👋
 
-Welcome to my GitHub profile! I am an aspiring student currently pursuing a BS in Information Technology. I have an interest in databases and web development. I am continuously expanding my skill set through academic study and certifications.
+Welcome to my GitHub profile! I am an aspiring student currently pursuing a Bachelor of Science in Information Technology (BSIT). I have a strong interest in database management and web development, and I enjoy building projects that help improve my technical and problem-solving skills. I am continuously learning and expanding my knowledge through academic studies, hands-on practice, and certifications as I work toward becoming a skilled IT professional.
+
 
 ## Education
 
